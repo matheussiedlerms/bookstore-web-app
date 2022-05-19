@@ -52,11 +52,6 @@
 
 Projeto aberto para ajuda!
 
-Lembre de seguir os requisitos da licensa...
-
-[![Manual](https://img.shields.io/badge/Manual-999999?style=for-the-badge&logo=BookStack&logoColor=white
-)](https://github.com/seu-usuario/seu-repositorio/manual.md)
-
 ### Support Ou Contato
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheussiedler/)
